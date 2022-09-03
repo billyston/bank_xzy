@@ -1,2 +1,5 @@
 class Account() :
-    pass
+    
+    # Constructor
+    def __init__( self ) :
+        pass

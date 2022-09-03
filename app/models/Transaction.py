@@ -1,2 +1,5 @@
 class Transaction() :
-    pass
+    
+    # Constructor
+    def __init__( self ) :
+        pass
