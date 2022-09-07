@@ -1,0 +1,34 @@
+{
+    "accounts": [
+        {
+            "id": 355,
+            "customer_id": 206,
+            "account_number": 6301726194,
+            "account_type": "",
+            "account_currency": "",
+            "current_balance": 0.0,
+            "available_balance": 0.0,
+            "status": "Active"
+        },
+        {
+            "id": 656,
+            "customer_id": 736,
+            "account_number": 3389423243,
+            "account_type": "",
+            "account_currency": "",
+            "current_balance": 0.0,
+            "available_balance": 0.0,
+            "status": "Active"
+        },
+        {
+            "id": 611,
+            "customer_id": 932,
+            "account_number": 2516573960,
+            "account_type": "",
+            "account_currency": "",
+            "current_balance": 0.0,
+            "available_balance": 0.0,
+            "status": "Active"
+        }
+    ]
+}

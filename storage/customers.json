@@ -1,0 +1,40 @@
+{
+    "customers": [
+        {
+            "id": 206,
+            "first_name": "Michael",
+            "middle_name": "",
+            "last_name": "Katey",
+            "date_of_birth": "1982-07-02",
+            "phone_number": "0244637602",
+            "email_address": "billyston@gmail.com",
+            "residential_address": "140, Lakeside, Adenta - Accra",
+            "postal_address": "",
+            "status": "Active"
+        },
+        {
+            "id": 736,
+            "first_name": "Michael",
+            "middle_name": "",
+            "last_name": "Katey",
+            "date_of_birth": "1982-07-02",
+            "phone_number": "0244637602",
+            "email_address": "billyston@gmail.com",
+            "residential_address": "140, Lakeside, Adenta - Accra",
+            "postal_address": "",
+            "status": "Active"
+        },
+        {
+            "id": 932,
+            "first_name": "Michael",
+            "middle_name": "",
+            "last_name": "Katey",
+            "date_of_birth": "1982-07-02",
+            "phone_number": "0244637602",
+            "email_address": "billyston@gmail.com",
+            "residential_address": "140, Lakeside, Adenta - Accra",
+            "postal_address": "",
+            "status": "Active"
+        }
+    ]
+}
